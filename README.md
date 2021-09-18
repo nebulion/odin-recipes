@@ -1,2 +1,2 @@
 # Goals with this project
-I am aiming to practice some fundamental HTML knowledge with this project from [The Odin Project](https://theodinproject.com). Ideally, I would like to progress with this project beyond the constraints of The Odin Project; however, for now, it will be a fairly simple project.
+My aim with this project is to practice some fundamental HTML knowledge. The project is a part of [The Odin Project](https://theodinproject.com), a site for learning how to create webpages. Ideally, I would like to progress with this project beyond the constraints of The Odin Project; however, for now, it will be a fairly simple project that does not do much different from what the course site lays out.
